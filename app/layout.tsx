@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "QW Web Solutions",
+  title: "Apex Roofing - Professional Roofing Services",
   description: "Modern websites designed for business.",
 };
 
@@ -32,3 +32,4 @@ export default function RootLayout({
     </html>
   );
 }
+
