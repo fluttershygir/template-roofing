@@ -55,9 +55,9 @@ export default function HomePage() {
             <div className="absolute inset-0 opacity-10" style={{backgroundImage: 'radial-gradient(#ffffff 1px, transparent 1px)', backgroundSize: '24px 24px'}}></div>
         </div>
         <div className="lg:w-1/2 bg-slate-200 relative min-h-[400px]">
-            {/* Abstract House Shape / Image Placeholder */}
+            {/* Roofing Image */}
             <div className="absolute inset-0 bg-slate-300 flex items-center justify-center overflow-hidden">
-                 <div className="w-[120%] h-[120%] bg-[url('https://images.unsplash.com/photo-1632759929288-667cb15516e8?q=80&w=2670&auto=format&fit=crop')] bg-cover bg-center grayscale contrast-125 opacity-80 mix-blend-multiply"></div>
+                 <div className="w-[120%] h-[120%] bg-[url('https://png.pngtree.com/thumb_back/fh260/background/20240408/pngtree-construction-roofer-installing-roof-tiles-at-house-building-site-image_15651636.jpg')] bg-cover bg-center grayscale contrast-125 opacity-80 mix-blend-multiply"></div>
                  <div className="absolute inset-0 bg-orange-600/10 mix-blend-overlay"></div>
             </div>
             <div className="absolute bottom-0 left-0 bg-orange-600 text-white p-8 lg:p-12 max-w-sm">
