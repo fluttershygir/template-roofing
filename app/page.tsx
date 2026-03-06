@@ -57,8 +57,8 @@ export default function HomePage() {
         <div className="lg:w-1/2 bg-slate-200 relative min-h-[400px]">
             {/* Roofing Image */}
             <div className="absolute inset-0 bg-slate-300 flex items-center justify-center overflow-hidden">
-                 <div className="w-[120%] h-[120%] bg-[url('https://png.pngtree.com/thumb_back/fh260/background/20240408/pngtree-construction-roofer-installing-roof-tiles-at-house-building-site-image_15651636.jpg')] bg-cover bg-center grayscale contrast-125 opacity-80 mix-blend-multiply"></div>
-                 <div className="absolute inset-0 bg-orange-600/10 mix-blend-overlay"></div>
+                 <div className="w-[120%] h-[120%] bg-[url('https://cdn.pixabay.com/photo/2017/11/21/10/02/roofer-2967759_1280.jpg')] bg-cover bg-center opacity-100"></div>
+                 <div className="absolute inset-0 bg-gradient-to-b from-transparent to-slate-900/20 mix-blend-overlay"></div>
             </div>
             <div className="absolute bottom-0 left-0 bg-orange-600 text-white p-8 lg:p-12 max-w-sm">
                 <p className="font-black text-4xl mb-2">50+</p>
